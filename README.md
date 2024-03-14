@@ -4,7 +4,7 @@ Timezone Converter is a simple web application built with React and Next.js that
 
 ![Unfilled form](/unfilled-form.png)
 
-![Filled form](/filled-form.png)
+![Filled form](/https://raw.githubusercontent.com/mkshuvo/timezoneconverter/main/public/filled-form.png)
 ## Features
 
 - Convert time from one timezone to another
