@@ -2,6 +2,9 @@
 
 Timezone Converter is a simple web application built with React and Next.js that allows users to convert time between different timezones.
 
+![Unfilled form](/unfilled-form.png)
+
+![Filled form](/filled-form.png)
 ## Features
 
 - Convert time from one timezone to another
